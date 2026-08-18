@@ -11,3 +11,6 @@ def square(a):
 
 def cube(a):
     return a * a * a
+
+def modulus(a, b):
+    return a % b
